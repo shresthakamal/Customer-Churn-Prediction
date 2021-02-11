@@ -22,6 +22,9 @@ ALPHA = 0.7
 
 FIGURE_PATH = os.path.join(BASE_DIR, "churnprediction/visualisation/")
 
+# To Specify whether or not to train the model everytime
+TRAIN_FLAG = False
+
 LABELS = {"yes": 1, "no": 0}
 
 FEATURES_TO_REMOVE = [
@@ -31,6 +34,23 @@ FEATURES_TO_REMOVE = [
     "Day_Minutes",
     "Voicemail_Plan",
 ]
+
+COLUMNS = [
+    "Account Length",
+    "Voicemail Message",
+    "Customer Service Calls",
+    "International Plan",
+    "Day Calls",
+    "Day Charge",
+    "Evening Calls",
+    "Evening Charge",
+    "Night Calls",
+    "Night Charge",
+    "International Calls",
+    "International Charge",
+    "Area Code",
+]
+
 
 if __name__ == "__main__":
     print(FIGURE_PATH)

@@ -29,7 +29,7 @@ class TestModel:
                 clf = pickle.load(handle)
             return clf
         else:
-            print("No saved model to predict !!")
+            print("[ERROR]: No saved model to predict, Turn on TRAIN_FLAG in config!!")
             return None
 
     def predict(self, **kwargs):

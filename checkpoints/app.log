@@ -262,3 +262,154 @@ INFO : 11-Feb-2021 18:22:50 : Saving test_data
 INFO : 11-Feb-2021 18:22:50 : Training with model: dt
 INFO : 11-Feb-2021 18:22:50 : Saving dt
 INFO : 11-फरवरी-2021 18:23:30 : Testing with model: dt
+INFO : 11-Feb-2021 19:05:18 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:05:18 : Saving train_data
+INFO : 11-Feb-2021 19:05:18 : Saving test_data
+INFO : 11-Feb-2021 19:05:21 : Training with model: knn
+INFO : 11-Feb-2021 19:05:21 : Saving knn
+INFO : 11-Feb-2021 19:06:42 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:06:42 : Saving train_data
+INFO : 11-Feb-2021 19:06:42 : Saving test_data
+INFO : 11-Feb-2021 19:06:44 : Training with model: knn
+INFO : 11-Feb-2021 19:06:44 : Saving knn
+INFO : 11-फरवरी-2021 19:06:44 : Testing with model: knn
+INFO : 11-Feb-2021 19:06:56 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:06:56 : Saving train_data
+INFO : 11-Feb-2021 19:06:56 : Saving test_data
+INFO : 11-Feb-2021 19:06:58 : Testing with model: knn
+INFO : 11-Feb-2021 19:07:46 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:07:46 : Saving train_data
+INFO : 11-Feb-2021 19:07:46 : Saving test_data
+INFO : 11-Feb-2021 19:09:50 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:09:50 : Saving train_data
+INFO : 11-Feb-2021 19:09:50 : Saving test_data
+INFO : 11-Feb-2021 19:10:10 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:10:10 : Saving train_data
+INFO : 11-Feb-2021 19:10:10 : Saving test_data
+INFO : 11-Feb-2021 19:12:37 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:12:37 : Saving train_data
+INFO : 11-Feb-2021 19:12:37 : Saving test_data
+INFO : 11-Feb-2021 19:13:01 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:13:01 : Saving train_data
+INFO : 11-Feb-2021 19:13:01 : Saving test_data
+INFO : 11-Feb-2021 19:13:08 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:13:08 : Saving train_data
+INFO : 11-Feb-2021 19:13:08 : Saving test_data
+INFO : 11-Feb-2021 19:13:13 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:13:13 : Saving train_data
+INFO : 11-Feb-2021 19:13:13 : Saving test_data
+INFO : 11-Feb-2021 19:13:52 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:13:52 : Saving train_data
+INFO : 11-Feb-2021 19:13:52 : Saving test_data
+INFO : 11-Feb-2021 19:15:12 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:15:12 : Saving train_data
+INFO : 11-Feb-2021 19:15:12 : Saving test_data
+INFO : 11-Feb-2021 19:15:13 : Training with model: dt
+INFO : 11-Feb-2021 19:15:13 : Saving dt
+INFO : 11-फरवरी-2021 19:15:13 : Testing with model: dt
+INFO : 11-Feb-2021 19:16:16 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:16:16 : Saving train_data
+INFO : 11-Feb-2021 19:16:16 : Saving test_data
+INFO : 11-Feb-2021 19:17:07 : Training with model: dt
+INFO : 11-Feb-2021 19:17:07 : Saving dt
+INFO : 11-फरवरी-2021 19:17:07 : Testing with model: dt
+INFO : 11-Feb-2021 19:17:38 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:17:38 : Saving train_data
+INFO : 11-Feb-2021 19:17:38 : Saving test_data
+INFO : 11-Feb-2021 19:17:39 : Training with model: knn
+INFO : 11-Feb-2021 19:17:39 : Saving knn
+INFO : 11-फरवरी-2021 19:17:39 : Testing with model: knn
+INFO : 11-Feb-2021 19:17:48 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:17:48 : Saving train_data
+INFO : 11-Feb-2021 19:17:48 : Saving test_data
+INFO : 11-Feb-2021 19:17:49 : Training with model: lr
+INFO : 11-Feb-2021 19:17:49 : Saving lr
+INFO : 11-फरवरी-2021 19:17:49 : Testing with model: lr
+INFO : 11-Feb-2021 19:17:53 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:17:53 : Saving train_data
+INFO : 11-Feb-2021 19:17:53 : Saving test_data
+INFO : 11-Feb-2021 19:17:54 : Training with model: svm
+INFO : 11-Feb-2021 19:17:54 : Saving svm
+INFO : 11-फरवरी-2021 19:17:55 : Testing with model: svm
+INFO : 11-Feb-2021 19:17:58 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:17:58 : Saving train_data
+INFO : 11-Feb-2021 19:17:58 : Saving test_data
+INFO : 11-Feb-2021 19:17:59 : Training with model: rf
+INFO : 11-Feb-2021 19:17:59 : Saving rf
+INFO : 11-फरवरी-2021 19:18:00 : Testing with model: rf
+INFO : 11-Feb-2021 19:19:55 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:19:55 : Saving train_data
+INFO : 11-Feb-2021 19:19:55 : Saving test_data
+INFO : 11-Feb-2021 19:19:56 : Testing with model: knn
+INFO : 11-Feb-2021 19:20:00 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:20:00 : Saving train_data
+INFO : 11-Feb-2021 19:20:00 : Saving test_data
+INFO : 11-Feb-2021 19:20:06 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:20:06 : Saving train_data
+INFO : 11-Feb-2021 19:20:06 : Saving test_data
+INFO : 11-Feb-2021 19:20:07 : Testing with model: rf
+INFO : 11-Feb-2021 19:20:13 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:20:13 : Saving train_data
+INFO : 11-Feb-2021 19:20:13 : Saving test_data
+INFO : 11-Feb-2021 19:20:30 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:20:30 : Saving train_data
+INFO : 11-Feb-2021 19:20:30 : Saving test_data
+INFO : 11-Feb-2021 19:20:31 : Training with model: gnb
+INFO : 11-Feb-2021 19:20:32 : Saving gnb
+INFO : 11-फरवरी-2021 19:20:32 : Testing with model: gnb
+INFO : 11-Feb-2021 19:22:16 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:22:16 : Saving train_data
+INFO : 11-Feb-2021 19:22:16 : Saving test_data
+INFO : 11-Feb-2021 19:22:20 : Training with model: knn
+INFO : 11-Feb-2021 19:22:20 : Saving knn
+INFO : 11-फरवरी-2021 19:22:20 : Testing with model: knn
+INFO : 11-Feb-2021 19:23:27 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:23:27 : Saving train_data
+INFO : 11-Feb-2021 19:23:27 : Saving test_data
+INFO : 11-Feb-2021 19:23:28 : Testing with model: rf
+INFO : 11-Feb-2021 19:23:42 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:23:42 : Saving train_data
+INFO : 11-Feb-2021 19:23:42 : Saving test_data
+INFO : 11-Feb-2021 19:23:42 : Testing with model: dt
+INFO : 11-Feb-2021 19:23:58 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:23:58 : Saving train_data
+INFO : 11-Feb-2021 19:23:58 : Saving test_data
+INFO : 11-Feb-2021 19:23:59 : Testing with model: dt
+INFO : 11-Feb-2021 19:24:09 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:24:09 : Saving train_data
+INFO : 11-Feb-2021 19:24:09 : Saving test_data
+INFO : 11-Feb-2021 19:24:09 : Testing with model: dt
+INFO : 11-Feb-2021 19:24:45 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:24:45 : Saving train_data
+INFO : 11-Feb-2021 19:24:45 : Saving test_data
+INFO : 11-Feb-2021 19:25:06 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:25:06 : Saving train_data
+INFO : 11-Feb-2021 19:25:06 : Saving test_data
+INFO : 11-Feb-2021 19:25:21 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:25:21 : Saving train_data
+INFO : 11-Feb-2021 19:25:21 : Saving test_data
+INFO : 11-Feb-2021 19:26:20 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:26:20 : Saving train_data
+INFO : 11-Feb-2021 19:26:20 : Saving test_data
+INFO : 11-Feb-2021 19:26:22 : Testing with model: lr
+INFO : 11-Feb-2021 19:26:33 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:26:33 : Saving train_data
+INFO : 11-Feb-2021 19:26:33 : Saving test_data
+INFO : 11-Feb-2021 19:26:33 : Testing with model: rf
+INFO : 11-Feb-2021 19:26:40 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:26:40 : Saving train_data
+INFO : 11-Feb-2021 19:26:40 : Saving test_data
+INFO : 11-Feb-2021 19:26:41 : Testing with model: gnb
+INFO : 11-Feb-2021 19:26:55 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:26:55 : Saving train_data
+INFO : 11-Feb-2021 19:26:55 : Saving test_data
+INFO : 11-Feb-2021 19:29:59 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:29:59 : Saving train_data
+INFO : 11-Feb-2021 19:29:59 : Saving test_data
+INFO : 11-Feb-2021 19:30:20 : Testing with model: rf
+INFO : 11-Feb-2021 19:30:46 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:30:46 : Saving train_data
+INFO : 11-Feb-2021 19:30:46 : Saving test_data
+INFO : 11-Feb-2021 19:31:18 : Saving pre_processed_data
+INFO : 11-Feb-2021 19:31:18 : Saving train_data
+INFO : 11-Feb-2021 19:31:18 : Saving test_data
