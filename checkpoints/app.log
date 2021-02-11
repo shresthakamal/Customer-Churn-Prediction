@@ -1,0 +1,264 @@
+INFO : 11-Feb-2021 16:08:57 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:08:57 : Saving train_data
+INFO : 11-Feb-2021 16:08:57 : Saving test_data
+INFO : 11-Feb-2021 16:08:57 : Training with model: lr
+INFO : 11-Feb-2021 16:08:57 : Saving lr
+INFO : 11-Feb-2021 16:09:15 : Testing with model: lr
+INFO : 11-Feb-2021 16:09:15 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:09:15 : Saving train_data
+INFO : 11-Feb-2021 16:09:15 : Saving test_data
+INFO : 11-Feb-2021 16:10:06 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:10:06 : Saving train_data
+INFO : 11-Feb-2021 16:10:06 : Saving test_data
+INFO : 11-Feb-2021 16:10:06 : Training with model: svm
+INFO : 11-Feb-2021 16:10:06 : Saving svm
+INFO : 11-Feb-2021 16:10:08 : Testing with model: svm
+INFO : 11-Feb-2021 16:10:08 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:10:08 : Saving train_data
+INFO : 11-Feb-2021 16:10:08 : Saving test_data
+INFO : 11-Feb-2021 16:10:26 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:10:26 : Saving train_data
+INFO : 11-Feb-2021 16:10:26 : Saving test_data
+INFO : 11-Feb-2021 16:10:26 : Training with model: dt
+INFO : 11-Feb-2021 16:10:26 : Saving dt
+INFO : 11-Feb-2021 16:10:30 : Testing with model: dt
+INFO : 11-Feb-2021 16:10:30 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:10:30 : Saving train_data
+INFO : 11-Feb-2021 16:10:30 : Saving test_data
+INFO : 11-Feb-2021 16:11:09 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:11:09 : Saving train_data
+INFO : 11-Feb-2021 16:11:09 : Saving test_data
+INFO : 11-Feb-2021 16:11:09 : Training with model: bagging
+INFO : 11-Feb-2021 16:11:10 : Saving bagging
+INFO : 11-Feb-2021 16:11:14 : Testing with model: bagging
+INFO : 11-Feb-2021 16:11:14 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:11:14 : Saving train_data
+INFO : 11-Feb-2021 16:11:14 : Saving test_data
+INFO : 11-Feb-2021 16:11:21 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:11:21 : Saving train_data
+INFO : 11-Feb-2021 16:11:21 : Saving test_data
+INFO : 11-Feb-2021 16:11:21 : Training with model: bagging
+INFO : 11-Feb-2021 16:11:22 : Saving bagging
+INFO : 11-Feb-2021 16:11:24 : Testing with model: bagging
+INFO : 11-Feb-2021 16:11:24 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:11:24 : Saving train_data
+INFO : 11-Feb-2021 16:11:24 : Saving test_data
+INFO : 11-Feb-2021 16:11:28 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:11:28 : Saving train_data
+INFO : 11-Feb-2021 16:11:28 : Saving test_data
+INFO : 11-Feb-2021 16:11:28 : Training with model: bagging
+INFO : 11-Feb-2021 16:11:29 : Saving bagging
+INFO : 11-Feb-2021 16:11:31 : Testing with model: bagging
+INFO : 11-Feb-2021 16:11:31 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:11:31 : Saving train_data
+INFO : 11-Feb-2021 16:11:31 : Saving test_data
+INFO : 11-Feb-2021 16:11:52 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:11:52 : Saving train_data
+INFO : 11-Feb-2021 16:11:52 : Saving test_data
+INFO : 11-Feb-2021 16:11:52 : Training with model: rf
+INFO : 11-Feb-2021 16:11:52 : Saving rf
+INFO : 11-Feb-2021 16:11:55 : Testing with model: rf
+INFO : 11-Feb-2021 16:11:55 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:11:55 : Saving train_data
+INFO : 11-Feb-2021 16:11:55 : Saving test_data
+INFO : 11-Feb-2021 16:12:29 : Testing with model: gboost
+INFO : 11-Feb-2021 16:12:29 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:12:29 : Saving train_data
+INFO : 11-Feb-2021 16:12:29 : Saving test_data
+INFO : 11-Feb-2021 16:12:50 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:12:50 : Saving train_data
+INFO : 11-Feb-2021 16:12:50 : Saving test_data
+INFO : 11-Feb-2021 16:12:50 : Training with model: GNB
+INFO : 11-Feb-2021 16:12:50 : Saving GNB
+INFO : 11-Feb-2021 16:12:53 : Testing with model: GNB
+INFO : 11-Feb-2021 16:12:53 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:12:53 : Saving train_data
+INFO : 11-Feb-2021 16:12:53 : Saving test_data
+INFO : 11-Feb-2021 16:30:58 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:30:58 : Saving train_data
+INFO : 11-Feb-2021 16:30:58 : Saving test_data
+INFO : 11-Feb-2021 16:31:01 : Training with model: gboost
+INFO : 11-Feb-2021 16:31:01 : Saving gboost
+INFO : 11-Feb-2021 16:34:00 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:34:00 : Saving train_data
+INFO : 11-Feb-2021 16:34:00 : Saving test_data
+INFO : 11-Feb-2021 16:34:03 : Training with model: rf
+INFO : 11-Feb-2021 16:34:04 : Saving rf
+INFO : 11-Feb-2021 16:34:25 : Testing with model: rf
+INFO : 11-Feb-2021 16:35:04 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:35:04 : Saving train_data
+INFO : 11-Feb-2021 16:35:04 : Saving test_data
+INFO : 11-Feb-2021 16:35:13 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:35:13 : Saving train_data
+INFO : 11-Feb-2021 16:35:13 : Saving test_data
+INFO : 11-Feb-2021 16:35:13 : Training with model: gboost
+INFO : 11-Feb-2021 16:35:13 : Saving gboost
+INFO : 11-Feb-2021 16:35:29 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:35:29 : Saving train_data
+INFO : 11-Feb-2021 16:35:29 : Saving test_data
+INFO : 11-Feb-2021 16:35:31 : Training with model: gboost
+INFO : 11-Feb-2021 16:35:31 : Saving gboost
+INFO : 11-Feb-2021 16:35:31 : Testing with model: gboost
+INFO : 11-Feb-2021 16:36:21 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:36:21 : Saving train_data
+INFO : 11-Feb-2021 16:36:21 : Saving test_data
+INFO : 11-Feb-2021 16:36:23 : Training with model: gboost
+INFO : 11-Feb-2021 16:36:23 : Saving gboost
+INFO : 11-Feb-2021 16:36:52 : Testing with model: gboost
+INFO : 11-Feb-2021 16:37:55 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:37:55 : Saving train_data
+INFO : 11-Feb-2021 16:37:55 : Saving test_data
+INFO : 11-Feb-2021 16:37:56 : Training with model: gboost
+INFO : 11-Feb-2021 16:37:56 : Saving gboost
+INFO : 11-Feb-2021 16:38:17 : Testing with model: gboost
+INFO : 11-Feb-2021 16:41:22 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:41:22 : Saving train_data
+INFO : 11-Feb-2021 16:41:22 : Saving test_data
+INFO : 11-Feb-2021 16:41:23 : Training with model: gboost
+INFO : 11-Feb-2021 16:41:24 : Saving gboost
+INFO : 11-Feb-2021 16:41:44 : Testing with model: gboost
+INFO : 11-Feb-2021 16:42:01 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:42:01 : Saving train_data
+INFO : 11-Feb-2021 16:42:01 : Saving test_data
+INFO : 11-Feb-2021 16:42:02 : Training with model: gboost
+INFO : 11-Feb-2021 16:42:03 : Saving gboost
+INFO : 11-Feb-2021 16:42:14 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:42:14 : Saving train_data
+INFO : 11-Feb-2021 16:42:14 : Saving test_data
+INFO : 11-Feb-2021 16:42:14 : Training with model: gboost
+INFO : 11-Feb-2021 16:42:14 : Saving gboost
+INFO : 11-Feb-2021 16:42:20 : Testing with model: gboost
+INFO : 11-Feb-2021 16:53:49 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:53:49 : Saving train_data
+INFO : 11-Feb-2021 16:53:49 : Saving test_data
+INFO : 11-Feb-2021 16:53:52 : Training with model: gboost
+INFO : 11-Feb-2021 16:53:52 : Saving gboost
+INFO : 11-Feb-2021 16:54:28 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:54:28 : Saving train_data
+INFO : 11-Feb-2021 16:54:28 : Saving test_data
+INFO : 11-Feb-2021 16:54:28 : Training with model: gboost
+INFO : 11-Feb-2021 16:54:28 : Saving gboost
+WARNING : 11-फरवरी-2021 16:54:29 : No handles with labels found to put in legend.
+INFO : 11-Feb-2021 16:54:40 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:54:40 : Saving train_data
+INFO : 11-Feb-2021 16:54:40 : Saving test_data
+INFO : 11-Feb-2021 16:54:41 : Training with model: gboost
+INFO : 11-Feb-2021 16:54:41 : Saving gboost
+WARNING : 11-फरवरी-2021 16:54:41 : No handles with labels found to put in legend.
+INFO : 11-Feb-2021 16:55:09 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:55:09 : Saving train_data
+INFO : 11-Feb-2021 16:55:09 : Saving test_data
+INFO : 11-Feb-2021 16:55:10 : Training with model: gboost
+INFO : 11-Feb-2021 16:55:10 : Saving gboost
+WARNING : 11-फरवरी-2021 16:55:10 : No handles with labels found to put in legend.
+INFO : 11-Feb-2021 16:55:39 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:55:39 : Saving train_data
+INFO : 11-Feb-2021 16:55:39 : Saving test_data
+INFO : 11-Feb-2021 16:55:39 : Training with model: gboost
+INFO : 11-Feb-2021 16:55:40 : Saving gboost
+WARNING : 11-फरवरी-2021 16:55:40 : No handles with labels found to put in legend.
+INFO : 11-Feb-2021 16:56:10 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:56:10 : Saving train_data
+INFO : 11-Feb-2021 16:56:10 : Saving test_data
+INFO : 11-Feb-2021 16:56:10 : Training with model: gboost
+INFO : 11-Feb-2021 16:56:10 : Saving gboost
+INFO : 11-Feb-2021 16:56:21 : Saving pre_processed_data
+INFO : 11-Feb-2021 16:56:21 : Saving train_data
+INFO : 11-Feb-2021 16:56:21 : Saving test_data
+INFO : 11-Feb-2021 16:56:23 : Training with model: bagging
+INFO : 11-Feb-2021 16:56:24 : Saving bagging
+INFO : 11-Feb-2021 17:04:19 : Saving pre_processed_data
+INFO : 11-Feb-2021 17:04:19 : Saving train_data
+INFO : 11-Feb-2021 17:04:19 : Saving test_data
+INFO : 11-Feb-2021 18:08:59 : Saving pre_processed_data
+INFO : 11-Feb-2021 18:08:59 : Saving train_data
+INFO : 11-Feb-2021 18:08:59 : Saving test_data
+INFO : 11-Feb-2021 18:09:01 : Training with model: gboost
+INFO : 11-Feb-2021 18:09:01 : Saving gboost
+INFO : 11-Feb-2021 18:09:37 : Saving pre_processed_data
+INFO : 11-Feb-2021 18:09:37 : Saving train_data
+INFO : 11-Feb-2021 18:09:37 : Saving test_data
+INFO : 11-Feb-2021 18:09:39 : Training with model: knn
+INFO : 11-Feb-2021 18:09:39 : Saving knn
+INFO : 11-Feb-2021 18:09:49 : Saving pre_processed_data
+INFO : 11-Feb-2021 18:09:49 : Saving train_data
+INFO : 11-Feb-2021 18:09:49 : Saving test_data
+INFO : 11-Feb-2021 18:09:55 : Training with model: xgboost
+INFO : 11-Feb-2021 18:09:56 : Saving xgboost
+INFO : 11-Feb-2021 18:11:01 : Saving pre_processed_data
+INFO : 11-Feb-2021 18:11:01 : Saving train_data
+INFO : 11-Feb-2021 18:11:01 : Saving test_data
+INFO : 11-Feb-2021 18:11:02 : Training with model: xgboost
+INFO : 11-Feb-2021 18:11:02 : Saving xgboost
+INFO : 11-फरवरी-2021 18:11:30 : Testing with model: xgboost
+INFO : 11-Feb-2021 18:11:54 : Saving pre_processed_data
+INFO : 11-Feb-2021 18:11:54 : Saving train_data
+INFO : 11-Feb-2021 18:11:54 : Saving test_data
+INFO : 11-Feb-2021 18:11:56 : Training with model: xgboost
+INFO : 11-Feb-2021 18:11:57 : Saving xgboost
+INFO : 11-फरवरी-2021 18:11:57 : Testing with model: xgboost
+INFO : 11-Feb-2021 18:13:35 : Saving pre_processed_data
+INFO : 11-Feb-2021 18:13:35 : Saving train_data
+INFO : 11-Feb-2021 18:13:35 : Saving test_data
+INFO : 11-Feb-2021 18:13:37 : Training with model: gboost
+INFO : 11-Feb-2021 18:13:38 : Saving gboost
+INFO : 11-फरवरी-2021 18:13:38 : Testing with model: gboost
+INFO : 11-Feb-2021 18:14:22 : Saving pre_processed_data
+INFO : 11-Feb-2021 18:14:22 : Saving train_data
+INFO : 11-Feb-2021 18:14:22 : Saving test_data
+INFO : 11-Feb-2021 18:14:23 : Training with model: rf
+INFO : 11-Feb-2021 18:14:24 : Saving rf
+INFO : 11-फरवरी-2021 18:14:24 : Testing with model: rf
+INFO : 11-Feb-2021 18:15:25 : Saving pre_processed_data
+INFO : 11-Feb-2021 18:15:25 : Saving train_data
+INFO : 11-Feb-2021 18:15:25 : Saving test_data
+INFO : 11-Feb-2021 18:15:46 : Saving pre_processed_data
+INFO : 11-Feb-2021 18:15:46 : Saving train_data
+INFO : 11-Feb-2021 18:15:46 : Saving test_data
+INFO : 11-Feb-2021 18:15:47 : Training with model: gnb
+INFO : 11-Feb-2021 18:15:47 : Saving gnb
+INFO : 11-फरवरी-2021 18:15:47 : Testing with model: gnb
+INFO : 11-Feb-2021 18:15:52 : Saving pre_processed_data
+INFO : 11-Feb-2021 18:15:52 : Saving train_data
+INFO : 11-Feb-2021 18:15:52 : Saving test_data
+INFO : 11-Feb-2021 18:15:54 : Training with model: gboost
+INFO : 11-Feb-2021 18:15:54 : Saving gboost
+INFO : 11-फरवरी-2021 18:15:54 : Testing with model: gboost
+INFO : 11-Feb-2021 18:16:33 : Saving pre_processed_data
+INFO : 11-Feb-2021 18:16:33 : Saving train_data
+INFO : 11-Feb-2021 18:16:33 : Saving test_data
+INFO : 11-Feb-2021 18:16:36 : Training with model: bagging
+INFO : 11-Feb-2021 18:16:37 : Saving bagging
+INFO : 11-फरवरी-2021 18:16:37 : Testing with model: bagging
+INFO : 11-Feb-2021 18:16:54 : Saving pre_processed_data
+INFO : 11-Feb-2021 18:16:54 : Saving train_data
+INFO : 11-Feb-2021 18:16:54 : Saving test_data
+INFO : 11-Feb-2021 18:16:57 : Training with model: bagging
+INFO : 11-Feb-2021 18:16:58 : Saving bagging
+INFO : 11-फरवरी-2021 18:17:20 : Testing with model: bagging
+INFO : 11-Feb-2021 18:21:00 : Saving pre_processed_data
+INFO : 11-Feb-2021 18:21:00 : Saving train_data
+INFO : 11-Feb-2021 18:21:00 : Saving test_data
+INFO : 11-Feb-2021 18:21:06 : Training with model: dt
+INFO : 11-Feb-2021 18:21:06 : Saving dt
+INFO : 11-Feb-2021 18:21:17 : Saving pre_processed_data
+INFO : 11-Feb-2021 18:21:17 : Saving train_data
+INFO : 11-Feb-2021 18:21:17 : Saving test_data
+INFO : 11-Feb-2021 18:21:19 : Training with model: dt
+INFO : 11-Feb-2021 18:21:19 : Saving dt
+INFO : 11-Feb-2021 18:21:37 : Saving pre_processed_data
+INFO : 11-Feb-2021 18:21:37 : Saving train_data
+INFO : 11-Feb-2021 18:21:37 : Saving test_data
+INFO : 11-Feb-2021 18:21:38 : Training with model: dt
+INFO : 11-Feb-2021 18:21:38 : Saving dt
+INFO : 11-Feb-2021 18:22:06 : Saving pre_processed_data
+INFO : 11-Feb-2021 18:22:06 : Saving train_data
+INFO : 11-Feb-2021 18:22:06 : Saving test_data
+INFO : 11-Feb-2021 18:22:07 : Training with model: dt
+INFO : 11-Feb-2021 18:22:07 : Saving dt
+INFO : 11-Feb-2021 18:22:50 : Saving pre_processed_data
+INFO : 11-Feb-2021 18:22:50 : Saving train_data
+INFO : 11-Feb-2021 18:22:50 : Saving test_data
+INFO : 11-Feb-2021 18:22:50 : Training with model: dt
+INFO : 11-Feb-2021 18:22:50 : Saving dt
+INFO : 11-फरवरी-2021 18:23:30 : Testing with model: dt
