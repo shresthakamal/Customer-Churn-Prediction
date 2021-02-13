@@ -6,7 +6,7 @@ Trainee Assessment: Fuse Machines
 
 
 <p align="center">
-<img src=""  />
+<img src="https://4.bp.blogspot.com/-wzReF0exOt8/WddYCM4OdYI/AAAAAAAAELg/vFEwRbLUCn8bBwVpl-vUbp6NZw_OaraTQCEwYBhgL/s1600/churn.png"  />
 </p>
 
 
