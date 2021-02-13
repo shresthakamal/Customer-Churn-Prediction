@@ -1,14 +1,12 @@
 from churnprediction.dispatcher import dispatcher
 from MultiChoice import MultiChoice
 from churnprediction.config import config
+from churnprediction.utils import get_user_selected_model
 
 
 def get_user_data():
     # User's Model Choice
-    user_selected_model = MultiChoice(
-        "Select one of the following models:",
-        options=(dispatcher.MODELS.keys()),
-    )().lower()
+    user_selected_model = get_user_selected_model.get_user_selected_model()
 
     columns = config.COLUMNS
 

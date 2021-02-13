@@ -90,12 +90,18 @@ OR
 ./run.sh
 ```
 
-### Test
+### Testing on Holdout Dataset
+
+**Make the necessary changes on `tests/config`**
+
+- Place the holdout dataset on `./data/raw`
+- Rename the testing dataset to `test.csv`
 
 ```
 python -m tests.test_environment
 ```
 
+_Check the testing logs in `checkpoints/app.log`_
 
 ### To-do List
 

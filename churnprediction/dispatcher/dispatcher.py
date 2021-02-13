@@ -15,7 +15,7 @@ from churnprediction.config import config
 # The Parameters can be more manged // NO TIME TO DO THIS
 
 MODELS = {
-    "lr": LogisticRegression(max_iter=50, penalty="l2"),
+    "lr": LogisticRegression(max_iter=1000, penalty="l2"),
     "svm": svm.SVC(),
     "dt": DecisionTreeClassifier(random_state=config.RANDOM_STATE),
     "knn": KNeighborsClassifier(),

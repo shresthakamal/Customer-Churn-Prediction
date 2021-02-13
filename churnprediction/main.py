@@ -1,6 +1,4 @@
 import os
-
-
 from sklearn.metrics import accuracy_score, confusion_matrix, f1_score
 from churnprediction.config import config
 from churnprediction.features.build_features import build_features
