@@ -96,6 +96,7 @@ OR
 
 - Place the holdout dataset on `./data/raw`
 - Rename the testing dataset to `test.csv`
+- Run
 
 ```
 python -m tests.test_environment
