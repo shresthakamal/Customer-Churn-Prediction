@@ -8,8 +8,7 @@ from churnprediction.config import config
 from churnprediction.utils.seralizer import save_object
 
 
-def build_features(dataset_path, split_ratio=0.3):
-
+def pre_precessing(dataset_path):
     data = pd.read_csv(dataset_path)
 
     df = data.drop(["State", "Phone"], axis=1)
@@ -27,6 +26,19 @@ def build_features(dataset_path, split_ratio=0.3):
 
     df = df.drop(features_to_remove, axis=1)
 
+    save_object(
+        filepath=os.path.join(config.DATA_PATH, "processed"),
+        filename="pre_processed_data",
+        object_arr=[df],
+    )
+
+    return df
+
+
+def build_features(dataset_path, split_ratio=0.3):
+
+    df = pre_precessing(dataset_path)
+
     """DATA PRE-PROCESSING
 
     No missing data
@@ -34,7 +46,6 @@ def build_features(dataset_path, split_ratio=0.3):
     Encoding of categorical values needed
     No Standaridastaion needed
     No ill formated values
-
     """
 
     train, test = train_test_split(df, test_size=config.TEST_SIZE, stratify=df["Churn"])
@@ -49,12 +60,6 @@ def build_features(dataset_path, split_ratio=0.3):
     sm = SMOTE()
     train_x, train_y = sm.fit_resample(train_x, train_y)
     test_x, test_y = sm.fit_resample(test_x, test_y)
-
-    save_object(
-        filepath=os.path.join(config.DATA_PATH, "processed"),
-        filename="pre_processed_data",
-        object_arr=[df],
-    )
 
     save_object(
         filepath=os.path.join(config.CHECKPOINTS_PATH),

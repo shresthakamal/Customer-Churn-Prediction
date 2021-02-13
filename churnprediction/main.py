@@ -1,12 +1,12 @@
 import os
 
-from MultiChoice import MultiChoice
+
 from sklearn.metrics import accuracy_score, confusion_matrix, f1_score
-from churnprediction.dispatcher import dispatcher
 from churnprediction.config import config
 from churnprediction.features.build_features import build_features
 from churnprediction.models import test_model, train_model
 from churnprediction.utils.generate_roc import generate_roc
+from churnprediction.utils.get_user_data import get_user_data
 
 
 def train_pipeline(model_name, x_train, y_train, x_test, y_test):
@@ -35,7 +35,7 @@ def test_pipeline(model_name, test_query):
         for key, value in config.LABELS.items():
             if value == prediction[0]:
                 churn = key
-                print("[RESULTS: (main): Predicted Churn: {}]".format(key))
+                print("[RESULTS] : (main): Predicted Churn: {}".format(key))
 
         return churn
     else:
@@ -44,32 +44,21 @@ def test_pipeline(model_name, test_query):
 
 if __name__ == "__main__":
 
+    dataset_path = config.DATASET_PATH
+
     x_train, y_train, x_test, y_test = build_features(
-        dataset_path=os.path.join(config.DATA_PATH, "raw", config.DATASET_NAME),
+        dataset_path=dataset_path,
         split_ratio=config.TEST_SIZE,
     )
 
-    # User's Model Choice
-    user_selected_model = MultiChoice(
-        "Select one of the following models:",
-        options=(dispatcher.MODELS.keys()),
-    )().lower()
+    user_selected_model, user_data = get_user_data()
 
-    # To decide whether or not to train the model everytime
     if config.TRAIN_FLAG:
         print(
             "[INFO]: F1 Score: {}".format(
                 train_pipeline(user_selected_model, x_train, y_train, x_test, y_test)
             )
         )
-
-    columns = config.COLUMNS
-
-    user_data = []
-
-    for name in columns:
-        var = float(input("Enter {}: ".format(name)))
-        user_data.append(var)
 
     test_pipeline(
         user_selected_model,
