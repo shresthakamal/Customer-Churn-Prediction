@@ -3,3 +3,35 @@ INFO : 13-Feb-2021 10:48:33 : Saving pre_processed_data
 INFO : 13-Feb-2021 10:48:48 : [INFO]: Testing on user selected model:  rf
 INFO : 13-Feb-2021 10:48:48 : Testing with model: rf
 INFO : 13-Feb-2021 10:48:48 : [INFO]: Displaying Predictions using: rf  model
+INFO : 13-Feb-2021 10:53:15 : Saving pre_processed_data
+INFO : 13-Feb-2021 10:53:15 : Saving train_data
+INFO : 13-Feb-2021 10:53:15 : Saving test_data
+INFO : 13-Feb-2021 10:53:27 : Training with model: dt
+INFO : 13-Feb-2021 10:53:27 : Saving dt
+INFO : 13-फरवरी-2021 10:53:27 : Testing with model: dt
+INFO : 13-Feb-2021 10:53:40 : Saving pre_processed_data
+INFO : 13-Feb-2021 10:53:40 : Saving train_data
+INFO : 13-Feb-2021 10:53:40 : Saving test_data
+INFO : 13-Feb-2021 10:53:47 : Training with model: dt
+INFO : 13-Feb-2021 10:53:47 : Saving dt
+INFO : 13-फरवरी-2021 10:53:47 : Testing with model: dt
+INFO : 13-Feb-2021 10:55:15 : [INFO]: Pre-Processing Testing Dataset using:  /home/kamal/Downloads/MlProjects/Teleco Churn Prediction/data/raw/test.csv
+INFO : 13-Feb-2021 10:55:15 : Saving pre_processed_data
+INFO : 13-Feb-2021 10:55:45 : [INFO]: Testing on user selected model:  dt
+INFO : 13-Feb-2021 10:55:45 : Testing with model: dt
+INFO : 13-Feb-2021 10:55:45 : [INFO]: Displaying Predictions using: dt  model
+INFO : 13-Feb-2021 10:56:59 : [INFO]: Pre-Processing Testing Dataset using:  /home/kamal/Downloads/MlProjects/Teleco Churn Prediction/data/raw/test.csv
+INFO : 13-Feb-2021 10:56:59 : Saving pre_processed_data
+INFO : 13-Feb-2021 10:57:02 : [INFO]: Testing on user selected model:  dt
+INFO : 13-Feb-2021 10:57:02 : [INFO]: Displaying Predictions using: dt  model
+INFO : 13-Feb-2021 10:57:44 : Saving pre_processed_data
+INFO : 13-Feb-2021 10:57:44 : Saving train_data
+INFO : 13-Feb-2021 10:57:44 : Saving test_data
+INFO : 13-Feb-2021 10:58:02 : Training with model: dt
+INFO : 13-Feb-2021 10:58:02 : Saving dt
+INFO : 13-फरवरी-2021 10:58:02 : Testing with model: dt
+INFO : 13-Feb-2021 10:58:13 : [INFO]: Pre-Processing Testing Dataset using:  /home/kamal/Downloads/MlProjects/Teleco Churn Prediction/data/raw/test.csv
+INFO : 13-Feb-2021 10:58:13 : Saving pre_processed_data
+INFO : 13-Feb-2021 10:58:16 : [INFO]: Testing on user selected model:  dt
+INFO : 13-Feb-2021 10:58:16 : Testing with model: dt
+INFO : 13-Feb-2021 10:58:16 : [INFO]: Displaying Predictions using: dt  model

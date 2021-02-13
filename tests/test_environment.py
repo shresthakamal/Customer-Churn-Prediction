@@ -40,6 +40,7 @@ def test(model=config.DEFAULT_TEST_MODEL):
     predictions = tester.predict(test_x=test_x)
 
     logging.info("[INFO]: Displaying Predictions using: {}  model".format(model))
+
     return predictions
 
 
