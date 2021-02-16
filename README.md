@@ -65,6 +65,14 @@ Project Organization
 
 ## Getting Started
 
+### Create a new virtual environment
+
+```
+- conda create -n myenv python==3.7
+- conda activate myenv
+
+```
+
 ### Requirements
 
 ```
@@ -73,13 +81,13 @@ pip install -r requirements.txt
 
 ### Download the dataset
 
-The following command will download the dataset from the URL given in `src/config/config.py` file .
+The following command will download the dataset from the URL given in `./churnprediction/config/config.py` file .
 
 ```
 python -m churnprediction.data.make_dataset
 ```
 
-### Run
+### Making Predictions
 
 ```
 python -m churnprediction.main
@@ -87,15 +95,15 @@ python -m churnprediction.main
 OR
 
 ```
-./run.sh
+bash run.sh
 ```
 
 ### Testing on Holdout Dataset
 
-**Make the necessary changes on `tests/config`**
+**Make the necessary changes on `./tests/config`**
 
 - Place the holdout dataset on `./data/raw`
-- Rename the testing dataset to `test.csv`
+- Rename the TEST_DATASET_NAME to `test.csv`
 - Run
 
 ```
@@ -103,13 +111,5 @@ python -m tests.test_environment
 ```
 
 _Check the testing logs in `checkpoints/app.log`_
-
-### To-do List
-
-- [ ] Download dataset
-- [ ] Pre-process data
-- [ ] Train model
-- [ ] Test model
-- [ ] Main Pipeline
 
 -------------------------------

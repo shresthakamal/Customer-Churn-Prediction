@@ -4,13 +4,11 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__fil
 
 DATASET_NAME = "churn.csv"
 
-
 DATA_PATH = os.path.join(BASE_DIR, "data")
 
 DATASET_URL = "http://bit.ly/texam-2021"
 
 DATASET_PATH = os.path.join(DATA_PATH, "raw", DATASET_NAME)
-
 
 PRE_PROCESSED_DATA = os.path.join(DATA_PATH, "processed", "pre_processed_data.pkl")
 
@@ -28,7 +26,7 @@ ALPHA = 0.7
 
 FIGURE_PATH = os.path.join(BASE_DIR, "churnprediction/visualisation/")
 
-# To Specify whether or not to train the model everytime
+# To Specify whether or not to train the model everytime we make any prediction
 TRAIN_FLAG = True
 
 LABELS = {"yes": 1, "no": 0}
