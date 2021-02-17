@@ -103,7 +103,7 @@ bash run.sh
 **Make the necessary changes on `./tests/config`**
 
 - Place the holdout dataset on `./data/raw`
-- Rename the TEST_DATASET_NAME to `test.csv`
+- Rename the holdout set to `test.csv`
 - Run
 
 ```
